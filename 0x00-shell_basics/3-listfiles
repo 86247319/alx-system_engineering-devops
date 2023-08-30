@@ -1,2 +1,2 @@
 #!/bin/bash
-to Display current directory contents in a long format use command cat
+to Display current directory contents in a long format use command ls -l
